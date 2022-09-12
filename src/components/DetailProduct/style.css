@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  margin-top: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-image {
+  width: 450px;
+  background-color: #ccc;
+}
+
+.box-content {
+  width: 450px;
+}
+
+.wrapper-content {
+  margin-left: 120px;
+  text-align: left;
+}
